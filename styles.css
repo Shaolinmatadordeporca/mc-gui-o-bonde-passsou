@@ -1,15 +1,11 @@
-<head>
-<link rel="styeheet" href="styles.css">
-<title>I GHOST THE DOWN COLL</title>
-</head>
 body{
   color:green;
   background:red;
   margin:0px;
 }
 header{
-  border-bottom: solid 2px rgb(42, 122, 228);
-  padding: 20px;
-  font-size: 32px;
-  color: rgb(42, 122, 228);
+  border-bottom:solid2pxrgb(42, 122, 228);
+  padding:20px;
+  font-size:32px;
+  color:rgb(42, 122, 228);
 }
